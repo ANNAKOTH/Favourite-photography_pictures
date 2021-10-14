@@ -1,0 +1,37 @@
+*{
+    background-color: black;
+    background-attachment: scroll;
+    font-family: "cochin";
+    font-size: medium ;
+    font-weight: 400;
+    font-style: normal;
+    border: maroon;
+    margin: auto;
+    padding:10%;
+    color: mintcream;
+    border-top: solid;
+    border-color: sienna;
+}
+h1{
+    font-size: xx-large;
+    font-style: italic;
+    font-family: "great day";
+    font-weight: normal;
+    border: saddlebrown;
+    border-style: dotted;
+    border-width: thick;
+    padding: 50,0;
+    color: salmon;
+}
+.biography{
+    padding: 20%;
+    display:block;   
+}
+h3{
+    font-size: x-large;
+    font-style: oblique;
+    color: crimson;
+}
+ul{
+    align-items: center;
+}
